@@ -2,11 +2,12 @@
 name = "repl_python3_L-o-L-BOT-BR"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Ruliam dos Santos de Oliveira"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 discord = "^1.0.1"
+riotwatcher = "^3.1.1"
 
 [tool.poetry.dev-dependencies]
 
